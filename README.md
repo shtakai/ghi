@@ -1,5 +1,7 @@
 # ghi
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/ghi.svg)](https://www.guardrails.io)
+
 GitHub Issues on the command line. Use your `$EDITOR`, not your browser.
 
 `ghi` was originally created by [Stephen Celis](https://github.com/stephencelis), and is now maintained by [Alex Chesters](https://github.com/alexchesters).
